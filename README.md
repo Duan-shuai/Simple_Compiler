@@ -119,9 +119,6 @@ B->for(YZ;G@FOR_FJ;Q){A@SINGLE}@FOR_RJ@FOR_BACKPATCH_FJ {参照if else } <br>
 （4）、new fourElement（String OP,String ARG1,String ARG2,String RES ）:生成一个四元式 <br>
 （OP,ARG1,ARG2,RES） 
 
-主界面 <br>
-![](http://img.blog.csdn.net/20150628153513997) <br>
-
 词法分析:<br>
 ![](http://img.blog.csdn.net/20150628153601335)<br>
 
